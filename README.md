@@ -12,18 +12,24 @@ Step5. 同步文件資料夾: Jp6-Document
 Step6. 簡單測試文件修改後上傳
 Step7. 測試小烏龜上傳
 ```
-```Bash
-# Jp6 GitBook Repo
+
+### Jp6 GitBook Repo
 https://github.com/Jp6Note/Jp6_Document   #github repo
+
 https://jp6note.gitbook.io/jp6-document/  #GitBook
+
 https://app.gitbook.com/@jp6note/spaces   #GitBook 管理頁面
-```
-```Bash
-# IAC GitBook Repo
-https://github.com/IAC-Document/Doc.git   #github repo
+
+
+
+### IAC GitBook Repo
+https://github.com/IAC-Document/Doc.git       #github repo
+
 https://peng-daniel.gitbook.io/iac-document/  #GitBook
-https://app.gitbook.com/login   #GitBook 管理頁面
-```
+
+https://app.gitbook.com/login                 #GitBook 管理頁面
+
+
 
 
 # gitbook 同步命令整理
